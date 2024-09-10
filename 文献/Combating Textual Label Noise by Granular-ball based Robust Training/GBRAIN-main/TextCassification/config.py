@@ -1,8 +1,8 @@
-import argparse
+import argparse  # argparse 模块，用于解析命令行参数。
 parser = argparse.ArgumentParser(description='Train Text Classification')
 parser.add_argument('--data_type', default='agnews', type=str,
-                    choices=['imdb', 'newsgroups', 'reuters', 'webkb', 'cade', 'dbpedia', 'agnews', 'yahoo',
-                             'sogou', 'yelp', 'amazon'], help='dataset type')
+                    choices=['imdb', 'newsgroups', 'reuters', 'webkb', 'cade', 'dbpedia', 'agnews', 'yahoo','sogou', 'yelp', 'amazon'], 
+                    help='dataset type')
 parser.add_argument('--fine_grained', action='store_true', help='use fine grained class or not, it only works for '
                                                                 'reuters, yelp and amazon')
 parser.add_argument('--text_length', default=300, type=int, help='the number of words about the text to load')
