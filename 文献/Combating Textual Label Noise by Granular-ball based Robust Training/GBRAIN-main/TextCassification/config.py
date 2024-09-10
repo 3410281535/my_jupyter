@@ -8,10 +8,10 @@ parser.add_argument('--fine_grained', action='store_true', help='use fine graine
 parser.add_argument('--text_length', default=300, type=int, help='the number of words about the text to load')
 
 parser.add_argument('--print_intervals', default=20, type=int, help='print_intervals')
-# parser.add_argument('--routing_type', default='k_means', type=str, choices=['k_means', 'dynamic'],
-#                     help='routing type, it only works for capsule classifier')
-parser.add_argument('--routing_type', default='dynamic', type=str, choices=['k_means', 'dynamic'],
+parser.add_argument('--routing_type', default='k_means', type=str, choices=['k_means', 'dynamic'],
                     help='routing type, it only works for capsule classifier')
+# parser.add_argument('--routing_type', default='dynamic', type=str, choices=['k_means', 'dynamic'],
+#                     help='routing type, it only works for capsule classifier')
 
 
 parser.add_argument('--loss_type', default='mf', type=str,
