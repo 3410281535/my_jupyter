@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "跳障碍游戏", "跳障碍游戏\跳障碍游戏.vcxproj", "{0177D657-205B-4BF5-969F-B3239629B4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0177D657-205B-4BF5-969F-B3239629B4C0}.Debug|x64.ActiveCfg = Debug|x64
+		{0177D657-205B-4BF5-969F-B3239629B4C0}.Debug|x64.Build.0 = Debug|x64
+		{0177D657-205B-4BF5-969F-B3239629B4C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{0177D657-205B-4BF5-969F-B3239629B4C0}.Debug|x86.Build.0 = Debug|Win32
+		{0177D657-205B-4BF5-969F-B3239629B4C0}.Release|x64.ActiveCfg = Release|x64
+		{0177D657-205B-4BF5-969F-B3239629B4C0}.Release|x64.Build.0 = Release|x64
+		{0177D657-205B-4BF5-969F-B3239629B4C0}.Release|x86.ActiveCfg = Release|Win32
+		{0177D657-205B-4BF5-969F-B3239629B4C0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F60E7F-0A2A-401D-A2BC-B6CC9FEC0BC3}
+	EndGlobalSection
+EndGlobal

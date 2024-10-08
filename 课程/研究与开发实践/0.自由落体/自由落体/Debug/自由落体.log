@@ -1,0 +1,4 @@
+﻿  自由落体.cpp
+E:\C_Program\自由落体\自由落体\自由落体.cpp(25,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\C_Program\自由落体\自由落体\自由落体.cpp(26,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  自由落体.vcxproj -> E:\C_Program\自由落体\Debug\自由落体.exe
