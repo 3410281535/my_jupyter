@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14e1f777-cdf3-4b8c-9f78-5e1f6c891275" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.virtual_documents/课程/计算机网络/计算机网络.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.virtual_documents/课程/计算机网络/计算机网络.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../技能/Machine Learning/.ipynb_checkpoints/进度-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../技能/Machine Learning/.ipynb_checkpoints/进度-checkpoint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../技能/Machine Learning/进度.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../技能/Machine Learning/进度.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../技能/Python/动态规划/740.删除并获得点数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../技能/Python/动态规划/740.删除并获得点数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../文献/Combating Textual Label Noise by Granular-ball based Robust Training/GBRAIN-main/TextCassification/.ipynb_checkpoints/main-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../文献/Combating Textual Label Noise by Granular-ball based Robust Training/GBRAIN-main/TextCassification/.ipynb_checkpoints/main-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../文献/Combating Textual Label Noise by Granular-ball based Robust Training/GBRAIN-main/TextCassification/MyDataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../文献/Combating Textual Label Noise by Granular-ball based Robust Training/GBRAIN-main/TextCassification/MyDataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../文献/Combating Textual Label Noise by Granular-ball based Robust Training/GBRAIN-main/TextCassification/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../文献/Combating Textual Label Noise by Granular-ball based Robust Training/GBRAIN-main/TextCassification/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../文献/Combating Textual Label Noise by Granular-ball based Robust Training/GBRAIN-main/TextCassification/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../文献/Combating Textual Label Noise by Granular-ball based Robust Training/GBRAIN-main/TextCassification/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../文献/Combating Textual Label Noise by Granular-ball based Robust Training/GBRAIN-main/TextCassification/myrelu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../文献/Combating Textual Label Noise by Granular-ball based Robust Training/GBRAIN-main/TextCassification/myrelu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../中特政经/.ipynb_checkpoints/中特政经-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../中特政经/.ipynb_checkpoints/中特政经-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../中特政经/中特政经.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../中特政经/中特政经.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../政治经济学/.ipynb_checkpoints/政治经济学-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../政治经济学/.ipynb_checkpoints/政治经济学-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../政治经济学/政治经济学.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../政治经济学/政治经济学.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/.ipynb_checkpoints/数据库-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据库/.ipynb_checkpoints/数据库-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/数据库.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据库/数据库.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.飞机大战/飞机大战.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.飞机大战/飞机大战.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.坚持100秒/img/bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.坚持100秒/坚持100秒.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../计算机网络/.ipynb_checkpoints/计算机网络-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../计算机网络/.ipynb_checkpoints/计算机网络-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../计算机网络/计算机网络.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../计算机网络/计算机网络.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../财务管理学/.ipynb_checkpoints/财务管理学-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../财务管理学/.ipynb_checkpoints/财务管理学-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../财务管理学/财务管理学.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../财务管理学/财务管理学.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../软件工程/.ipynb_checkpoints/软件工程-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../软件工程/.ipynb_checkpoints/软件工程-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../软件工程/软件工程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../软件工程/软件工程.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;3410281535&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/3410281535/my_jupyter.git&quot;,
+    &quot;accountId&quot;: &quot;146cf312-af48-4464-be23-ca134862da48&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Class.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pODEtXx2QMhjYNmQUhXKAb9I10" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.图像处理.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/E下载/QQ/源&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="大作业" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="14e1f777-cdf3-4b8c-9f78-5e1f6c891275" name="更改" comment="" />
+      <created>1732628119876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732628119876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

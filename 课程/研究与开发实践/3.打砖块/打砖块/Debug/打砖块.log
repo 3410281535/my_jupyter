@@ -1,3 +1,0 @@
-﻿  打砖块.cpp
-E:\C_Program\打砖块\打砖块\打砖块.cpp(77,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  打砖块.vcxproj -> E:\C_Program\打砖块\Debug\打砖块.exe

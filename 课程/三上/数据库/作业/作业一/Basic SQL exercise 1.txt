@@ -1,0 +1,34 @@
+I. Write the following queries in SQL,using the university schema. (Execute script files create_schema.sql and insert_data.sql.)
+
+1. Find the titles of courses in the Comp.Sci. department that have 3 credits.
+2. Find the IDs of all students who were taught by an instructor whose name is Einstein; make sure there are no duplicates in the result.
+3. Find the highest salary of any instructor.
+4. Find all instructors earning the highest salary (there may be more than one with the same salary).
+5. Find the enrollment£¨Ñ¡¿ÎÈËÊý£© of each section that was offered in Fall 2017.
+6. Find the maximum enrollment, across all sections, in Fall 2017.
+7. Find the sections that had the maximum enrollment in Fall 2017.
+
+II.You will be working with the following schemas £¨Execute script files e2c.txt and e2i.txt.£©: 
+
+  Employee (SSN, name, salary, DNo) 
+  Department (DNo, dept_name, mgr_SSN) 
+  Project (PNo, location, proj_name, DNo)
+  HourLog (SSN, PNo, hours) 
+  
+  The Employee relation provides a list of employees with their SSN, name, salary, and department number (DNo). 
+The SSN is unique for each employee. Each employee belongs to only one department. The Department relation 
+contains a list of the departments for the company. Its schema includes a unique department number called DNo. 
+It also includes the name of the department (dept_name) and the social security number of the department's 
+manager (mgr_SSN). Each department has a only one manager. The Project relation includes a unique project 
+number (PNo), location, the project name (proj_name) and the department(DNo) to be responsible for it. 
+An employee can be assigned to any number (including zero) projects. Each project has at least one person 
+assigned to it. Finally, the HourLog relation lists for each project the number of hours of work for each 
+employee who is assigned to that project. The key of this relation is SSN and PNo. 
+
+Write SQL statements to perform the following commands. 
+1. List all managers¡¯ SSN, name and salary. 
+2. Find the name and the SSN of everyone who works more than 100 hours on any project; make sure there are no duplicates in the result. 
+3. Find the name and the SSN of everyone who works on at least two projects. 
+4. Find the name and the SSN of everyone who have never worked on any projects. 
+5. Find the name and the SSN of everyone who works on all projects that "Singh" (the name of an employee) works on. 
+6. Find the name and the SSN of everyone who works on all projects that his deparment is responsible for them.

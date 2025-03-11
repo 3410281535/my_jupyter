@@ -1,0 +1,2 @@
+SgnMonth [统计月度] - YYYY-MM
+EffectExcRateInd [实际有效汇率指数] - 基于居民消费价格指数计算的期间平均值

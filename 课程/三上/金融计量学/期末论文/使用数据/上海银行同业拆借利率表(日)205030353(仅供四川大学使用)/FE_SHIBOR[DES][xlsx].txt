@@ -1,0 +1,4 @@
+TradingDate [交易日期] - YYYY-MM-DD
+Currency [拆借货币] - USD=美元；JPY=日元；EUR(ECU)=欧元；GBP=英镑…
+Term [拆借期限] - 
+IntersetRate [拆借利率(%)] - 
