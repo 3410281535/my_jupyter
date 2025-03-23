@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"e:\\jupyter_program\\技能\\Python\\CCF\\2020-06\\2.py","tests":[{"id":1742211444057,"input":"10 3 4\n4 5\n7 -3\n10 1\n1 10\n4 20\n5 30\n7 40","output":"-20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\jupyter_program\\技能\\Python\\CCF\\2020-06\\2.py","group":"local","local":true}
